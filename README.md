@@ -11,6 +11,6 @@ Website: www.typenwatch.com
 1. http://www.w3schools.com/bootstrap/
 2. https://developers.google.com/youtube
 3. http://stackoverflow.com/questions/33517524
-4. https://github.com/FriesFlorian/viralvideos
+4. https://www.youtube.com/watch?v=-vH2eZAM30s
 5. http://shebang.brandonmintern.com/foolproof-html-escaping-in-javascript
 6. http://stackoverflow.com/questions/4220126	
