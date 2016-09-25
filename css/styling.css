@@ -1,0 +1,29 @@
+/*
+*	Author: Manthan Shah
+*	Version: 1.0
+*	Description: css file for styling
+*	Date: 08/15/16
+*/
+
+body {
+    background-color: white;
+}
+
+.spacer { margin: 10; padding: 0; height: 20; }
+
+.footer {
+    background: #2f2f2f;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+/* social icons: */
+.footer i {
+    padding-right: 10px;
+    text-align: center;
+    color: #1abc9c;
+}
+
+#query {
+    border-color: black;
+}
