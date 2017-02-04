@@ -1,4 +1,4 @@
-TypeNWatch
+TypeTube
 ===========
 
 A website which plays the most related youtube video to the characters being typed. 
