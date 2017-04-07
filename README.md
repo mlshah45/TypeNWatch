@@ -6,7 +6,7 @@ It can also play the youtube video in a continuous loop.
 
 Website: www.typenwatch.com
 
-##References
+## References
 
 1. http://www.w3schools.com/bootstrap/
 2. https://developers.google.com/youtube
