@@ -96,7 +96,7 @@ function onError() {
 // Load the client interfaces for the YouTube Analytics and Data APIs, which
 // are required to use the Google APIs JS client
 function init() {
-    gapi.client.setApiKey("AIzaSyB8uIiYFCz_uFDXsBIuIbOsRT_WO3MQzK4"); // Public key
+    gapi.client.setApiKey("XXXXX"); // Public key - Enter your own youtube api key here
     gapi.client.load('youtube', 'v3', function() {
         // youtube data api ready to use
     });
