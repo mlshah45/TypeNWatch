@@ -2,6 +2,7 @@ TypeTube
 ===========
 
 A website which plays the most related youtube video to the characters being typed. 
+
 It can also play the video in a continuous loop.
 
 Website: www.typenwatch.com
@@ -12,9 +13,12 @@ Website: www.typenwatch.com
 
 ## Overview
 
-JavaScript is used to capture the text as it is getting typed in the search bar. 
+JavaScript is used to capture the text as it is getting typed in the search bar.
+
 The captured text is then passed using youtube api to return a list of videos. 
+
 One of the most related video is then selected based on some logic on views, likes and reviews linked to every video. 
+
 The selected video is then played in a loop unless there is a new search activity in the search bar.
 
 ## Run locally
