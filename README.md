@@ -10,14 +10,14 @@ Website: www.typenwatch.com
 
 * HTML, CSS, JavaScript
 
-# Overview
+## Overview
 
 JavaScript is used to capture the text as it is getting typed in the search bar. 
-The captured text is then passed using youtube api to return a list of videos.
-One of the most related video is then selected based on some logic on views, likes and reviews linked to every video.
+The captured text is then passed using youtube api to return a list of videos. 
+One of the most related video is then selected based on some logic on views, likes and reviews linked to every video. 
 The selected video is then played in a loop unless there is a new search activity in the search bar.
 
-# Run locally
+## Run locally
 
 * clone the repository
 * Generate a youtube api key on Google's api console using your google account.
